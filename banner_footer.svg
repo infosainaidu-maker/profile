@@ -1,0 +1,55 @@
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#090e1a"><animate attributeName="stop-color" values="#090e1a;#0d2040;#090e1a" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#0c2a55"><animate attributeName="stop-color" values="#0c2a55;#163060;#0c2a55" dur="8s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <linearGradient id="wa" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a5f8a"><animate attributeName="stop-color" values="#1a5f8a;#0d4a7a;#1a6a9a;#1a5f8a" dur="5s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#061520"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="160" fill="url(#sky)"/>
+  <!-- Stars -->
+  <circle cx="60" cy="14" r="1.2" fill="white" opacity="0.7"><animate attributeName="opacity" values="0.7;0.2;0.7" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="8" r="1.5" fill="white" opacity="0.5"><animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite" begin="0.5s"/></circle>
+  <circle cx="250" cy="20" r="1" fill="white" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="4s" repeatCount="indefinite" begin="1s"/></circle>
+  <circle cx="400" cy="10" r="1" fill="white" opacity="0.4"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.5s" repeatCount="indefinite" begin="0.3s"/></circle>
+  <circle cx="520" cy="18" r="1.5" fill="white" opacity="0.6"><animate attributeName="opacity" values="0.6;0.2;0.6" dur="2.8s" repeatCount="indefinite" begin="1.5s"/></circle>
+  <circle cx="640" cy="6" r="1" fill="white" opacity="0.5"><animate attributeName="opacity" values="0.5;1;0.5" dur="4.2s" repeatCount="indefinite" begin="0.8s"/></circle>
+  <circle cx="750" cy="15" r="1.2" fill="white" opacity="0.7"><animate attributeName="opacity" values="0.7;0.3;0.7" dur="3.1s" repeatCount="indefinite" begin="2s"/></circle>
+  <circle cx="840" cy="24" r="1.5" fill="white" opacity="0.4"><animate attributeName="opacity" values="0.4;0.9;0.4" dur="2.6s" repeatCount="indefinite" begin="0.4s"/></circle>
+  <circle cx="100" cy="30" r="1" fill="white" opacity="0.3"><animate attributeName="opacity" values="0.3;0.8;0.3" dur="5s" repeatCount="indefinite" begin="1.2s"/></circle>
+  <circle cx="460" cy="28" r="1" fill="white" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3.8s" repeatCount="indefinite" begin="0.7s"/></circle>
+  <!-- Moon -->
+  <circle cx="760" cy="30" r="18" fill="#fffde0" opacity="0.95"><animate attributeName="opacity" values="0.95;0.82;0.95" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="760" cy="30" r="26" fill="#fffde0" opacity="0.1"><animate attributeName="r" values="26;30;26" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.1;0.05;0.1" dur="4s" repeatCount="indefinite"/></circle>
+  <!-- Moon reflection -->
+  <ellipse cx="760" cy="105" rx="10" ry="28" fill="#fffde0" opacity="0.18"><animate attributeName="rx" values="10;4;13;5;10" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.18;0.07;0.22;0.09;0.18" dur="2s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="760" cy="138" rx="5" ry="10" fill="#fffde0" opacity="0.09"><animate attributeName="rx" values="5;2;7;3;5" dur="1.8s" repeatCount="indefinite" begin="0.3s"/></ellipse>
+  <!-- Water base -->
+  <rect x="0" y="72" width="900" height="88" fill="url(#wa)"/>
+  <!-- Wave layers -->
+  <path d="M-30,78 Q90,62 210,78 Q330,94 450,78 Q570,62 690,78 Q810,94 930,78 L930,160 L-30,160 Z" fill="#1e6b96" opacity="0.55">
+    <animateTransform attributeName="transform" type="translate" values="0,0;-210,0;0,0" dur="6s" repeatCount="indefinite" calcMode="linear"/>
+  </path>
+  <path d="M-60,88 Q60,74 180,88 Q300,102 420,88 Q540,74 660,88 Q780,102 900,88 Q930,82 960,88 L960,160 L-60,160 Z" fill="#1a5f8a" opacity="0.7">
+    <animateTransform attributeName="transform" type="translate" values="0,0;180,0;0,0" dur="4.5s" repeatCount="indefinite" calcMode="linear"/>
+  </path>
+  <path d="M-90,100 Q45,86 180,100 Q315,114 450,100 Q585,86 720,100 Q855,114 990,100 L990,160 L-90,160 Z" fill="#155080" opacity="0.82">
+    <animateTransform attributeName="transform" type="translate" values="0,0;-150,0;0,0" dur="3.5s" repeatCount="indefinite" calcMode="linear"/>
+  </path>
+  <path d="M-60,112 Q60,104 180,112 Q300,120 420,112 Q540,104 660,112 Q780,120 900,112 L900,160 L-60,160 Z" fill="#0d3a60" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" values="0,0;120,0;0,0" dur="2.8s" repeatCount="indefinite" calcMode="linear"/>
+  </path>
+  <!-- Foam lines -->
+  <path d="M0,82 Q50,77 100,82 Q150,87 200,82 Q250,77 300,82 Q350,87 400,82 Q450,77 500,82 Q550,87 600,82 Q650,77 700,82 Q750,87 800,82 Q850,77 900,82" fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="1.5">
+    <animateTransform attributeName="transform" type="translate" values="0,0;-200,0;0,0" dur="6s" repeatCount="indefinite" calcMode="linear"/>
+  </path>
+  <path d="M0,94 Q60,88 120,94 Q180,100 240,94 Q300,88 360,94 Q420,100 480,94 Q540,88 600,94 Q660,100 720,94 Q780,88 840,94 Q870,91 900,94" fill="none" stroke="rgba(255,255,255,0.16)" stroke-width="1">
+    <animateTransform attributeName="transform" type="translate" values="0,0;120,0;0,0" dur="4s" repeatCount="indefinite" calcMode="linear"/>
+  </path>
+  <!-- Text -->
+  <text x="450" y="44" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="white" opacity="0.95" letter-spacing="3">MADE WITH ❤️ BY SAI PURNA · INDIA 🇮🇳</text>
+  <text x="450" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.6)" letter-spacing="1">"The best time to start was yesterday. The next best time is now."</text>
+</svg>
