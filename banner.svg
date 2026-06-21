@@ -1,0 +1,65 @@
+<svg width="100%" viewBox="0 0 680 160" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>GitHub Profile Banner for Kandhula Sai Purna</title>
+  <desc>Animated hero banner with gradient background, rolling hills and name</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4a7c59">
+        <animate attributeName="stop-color" values="#4a7c59;#2d6a8a;#4a7c59" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#3a7a8a">
+        <animate attributeName="stop-color" values="#3a7a8a;#5a8c4a;#3a7a8a" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#1a3a5c">
+        <animate attributeName="stop-color" values="#1a3a5c;#2a5c3a;#1a3a5c" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="hill1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2d5a3d" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#1a3a2a" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="hill2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a3a5c" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0d1f30" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="680" height="160" fill="url(#bg)"/>
+
+  <path d="M0,110 Q100,70 200,95 Q300,115 400,80 Q500,50 600,85 L680,90 L680,160 L0,160 Z" fill="url(#hill1)">
+    <animateTransform attributeName="transform" type="translate" values="0,0;-10,5;0,0" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,130 Q120,100 240,120 Q360,138 480,110 Q580,90 680,115 L680,160 L0,160 Z" fill="url(#hill2)">
+    <animateTransform attributeName="transform" type="translate" values="0,0;10,-4;0,0" dur="10s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="340" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="white" opacity="0">
+    Kandhula Sai Purna
+    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze" begin="0.3s"/>
+  </text>
+
+  <text x="340" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="rgba(255,255,255,0.88)" opacity="0">
+    Web Developer | AI Enthusiast | CS Student | India
+    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze" begin="0.8s"/>
+  </text>
+
+  <text x="340" y="125" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="rgba(255,255,255,0.65)" opacity="0">
+    sainaidu.netlify.app · github.com/infosainaidu-maker
+    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze" begin="1.2s"/>
+  </text>
+
+  <circle cx="60" cy="40" r="2" fill="white" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="25" r="1.5" fill="white" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  <circle cx="550" cy="30" r="2" fill="white" opacity="0.35">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="3.5s" repeatCount="indefinite" begin="0.5s"/>
+  </circle>
+  <circle cx="620" cy="18" r="1.5" fill="white" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.8;0.25" dur="5s" repeatCount="indefinite" begin="2s"/>
+  </circle>
+  <circle cx="480" cy="22" r="1" fill="white" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.5s" repeatCount="indefinite" begin="1.5s"/>
+  </circle>
+</svg>
