@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Animated Hero Banner -->
-<img src="./banner.svg" width="100%" alt="Sai Purna Banner"/>
+<img src="https://raw.githubusercontent.com/infosainaidu-maker/infosainaidu-maker/main/banner.svg" width="100%" alt="Sai Purna Banner"/>
 
 <br/>
 
-<!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sai+Purna+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%90;AI+Tools+Explorer+%F0%9F%A4%96;Always+Learning+%F0%9F%93%9A;Building+the+Future+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sai+Purna+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%90;AI+Tools+Explorer+%F0%9F%A4%96;Always+Learning+%F0%9F%93%9A;Building+the+Future+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <h1>Kandhula Sai Purna Chandra Sekhara Naidu</h1>
 <h3>🌐 Web Developer | 🤖 AI Enthusiast | 💻 CS Student | 📍 India</h3>
@@ -32,10 +30,9 @@
   </a>
 </p>
 
-<!-- Profile Views + Followers + Repos -->
-<img src="https://komarev.com/ghpvc/?username=infosainaidu-maker&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=infosainaidu-maker&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/infosainaidu-maker?label=Followers&style=social" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/infosainaidu-maker?label=Followers&style=social" alt="Followers"/>
 
 </div>
 
@@ -86,15 +83,15 @@ I'm a passionate **Web Developer** and **Computer Science student** currently st
 
 ## 🚀 Featured Projects
 
-> 🔒 My project repositories are currently private. Here's a snapshot of what I'm working on — public releases coming soon!
+> 🔒 My project repositories are currently private. Public releases coming soon!
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | ☁️ Deployed On | 🔗 Links |
-|-----------|---------------|--------------|---------------|---------|
+|-----------|---------------|--------------|----------------|---------|
 | **Project 1** | *(Coming Soon — Web project built with AI tools)* | HTML, CSS, JS | Netlify / Vercel | 🔒 Private |
 | **Project 2** | *(Coming Soon)* | HTML, CSS, JS | Netlify / Vercel | 🔒 Private |
 | **Project 3** | *(Coming Soon)* | HTML, CSS, JS | Netlify / Vercel | 🔒 Private |
 
-<!-- 📌 UPDATE THIS SECTION: Add your project details when you make them public -->
+<!-- 📌 UPDATE THIS SECTION when projects go public -->
 
 ---
 
@@ -102,15 +99,30 @@ I'm a passionate **Web Developer** and **Computer Science student** currently st
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=infosainaidu-maker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=infosainaidu-maker&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=infosainaidu-maker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=infosainaidu-maker&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infosainaidu-maker&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=infosainaidu-maker&theme=tokyo-night&hide_border=true" width="96%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infosainaidu-maker&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=infosainaidu-maker&theme=tokyo-night&hide_border=true" width="96%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=infosainaidu-maker&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -119,29 +131,59 @@ I'm a passionate **Web Developer** and **Computer Science student** currently st
 ## 🎯 Skill Progress
 
 ```text
-HTML/CSS        ████████████████░░░░   80%
-JavaScript      ██████████████░░░░░░   70%
-Python          ████████░░░░░░░░░░░░   40%
-Java            ██████░░░░░░░░░░░░░░   30%
-Photo Editing   ████████████████████   95%
-Video Editing   ██████████████████░░   90%
+HTML / CSS        ████████████████░░░░   80%
+JavaScript        ██████████████░░░░░░   70%
+Python            ████████░░░░░░░░░░░░   40%
+Java              ██████░░░░░░░░░░░░░░   30%
+Photo Editing     ████████████████████   95%
+Video Editing     ██████████████████░░   90%
+AI Tools          ████████████████░░░░   80%
 ```
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🌟 Interesting Facts About Me
 
-<div align="center">
+<table>
+  <tr>
+    <td>🤖</td>
+    <td>I use <b>AI tools</b> to build websites faster than most developers twice my age</td>
+  </tr>
+  <tr>
+    <td>🎨</td>
+    <td>I can <b>edit photos & videos</b> professionally — creativity is my superpower</td>
+  </tr>
+  <tr>
+    <td>🏥</td>
+    <td>I interned at a <b>real hospital IT department</b> before finishing school</td>
+  </tr>
+  <tr>
+    <td>☁️</td>
+    <td>I deploy projects on both <b>Netlify and Vercel</b> for speed & reliability</td>
+  </tr>
+  <tr>
+    <td>💡</td>
+    <td>I'm <b>self-taught</b> — no coaching classes, just curiosity and the internet</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td>I have a <b>live portfolio website</b> while still being a student!</td>
+  </tr>
+  <tr>
+    <td>📈</td>
+    <td>I scored <b>better in Inter 1st year than 10th</b> — growth mindset is real!</td>
+  </tr>
+</table>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=infosainaidu-maker&theme=tokyonight&no-frame=true&row=1&column=6)
+---
 
-</div>
+## 🏅 Achievements & Certifications
 
 - 🏥 **IT Internship Certificate** — RNC Hospitals (2 Months, Computer IT Department)
 - 🎓 **Vocational Computer Science** — Sri K M Pandu Memorial Govt. Vocational Jr. College
-- 🌐 **Portfolio Website** — Deployed live at [sainaidu.netlify.app](https://sainaidu.netlify.app)
-- ☁️ **Vercel & Netlify Deployments** — Live projects on modern cloud platforms
-- 💡 **Self-taught Web Developer** — Building real websites using AI-powered tools
+- 🌐 **Live Portfolio** — [sainaidu.netlify.app](https://sainaidu.netlify.app)
+- ☁️ **Cloud Deployments** — Projects live on Netlify & Vercel
+- 💡 **Self-taught Web Developer** — Building real websites with AI-powered tools
 
 <!-- 📌 UPDATE THIS SECTION: Add new certifications or achievements as you earn them -->
 
@@ -154,37 +196,6 @@ Video Editing   ██████████████████░░   9
 ![JavaScript](https://img.shields.io/badge/JavaScript-Deepening-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-Practicing-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-Deploying-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🌟 Interesting Facts About Me
-
-<table>
-  <tr>
-    <td>🧠</td>
-    <td>I use <b>AI tools</b> to build websites faster than most developers</td>
-  </tr>
-  <tr>
-    <td>🎨</td>
-    <td>I can <b>edit photos & videos</b> professionally — creativity is my superpower</td>
-  </tr>
-  <tr>
-    <td>🏥</td>
-    <td>I interned at a <b>real hospital IT department</b> before finishing school</td>
-  </tr>
-  <tr>
-    <td>🚀</td>
-    <td>I deploy my projects on both <b>Netlify and Vercel</b> for speed & reliability</td>
-  </tr>
-  <tr>
-    <td>💡</td>
-    <td>I'm a <b>self-taught developer</b> who started coding in junior college</td>
-  </tr>
-  <tr>
-    <td>🌐</td>
-    <td>I have a <b>live portfolio website</b> while still being a student!</td>
-  </tr>
-</table>
 
 ---
 
@@ -224,7 +235,7 @@ Video Editing   ██████████████████░░   9
 
 ---
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 ---
 
@@ -232,7 +243,6 @@ Video Editing   ██████████████████░░   9
 
 <br/>
 
-<!-- Animated Water Footer Banner -->
-<img src="./banner_footer.svg" width="100%" alt="Footer Water Banner"/>
+<img src="https://raw.githubusercontent.com/infosainaidu-maker/infosainaidu-maker/main/banner_footer.svg" width="100%" alt="Footer Water Banner"/>
 
 </div>
